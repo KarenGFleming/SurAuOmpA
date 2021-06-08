@@ -1,3 +1,2 @@
 # SurAuOmpA
-Structural models of SurA in complex with OmpA
-Publication currently under review 
+Structural models that make up the sparse ensemble of conformations observed for SurA in complex with OmpA
